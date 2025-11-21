@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vscode/
+.env
+
+generated_data_sample.csv
